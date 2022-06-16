@@ -1,0 +1,48 @@
+.bg-header {
+    background-color: #F95555;
+    color: white;
+}
+.navbar-colors a{
+    color: white !important;
+}
+.navbar-brand {
+    font-size: 30px !important;
+}
+.nav-item {
+    margin: 0 10px;
+    font-size: 20px;
+}
+
+
+
+/*****VENDER*/
+.select-produtos {
+    background-color: transparent;
+    border: 1px solid black;
+    width: 30%;
+    text-align: left;
+    margin-bottom:30px;
+}
+.input-produtos {
+    background-color: transparent;
+    border: 1px solid black;
+    border-radius: 5px;
+    height: 35px;
+    width: 30%;
+    text-align: left;
+}
+
+.submit-vender {
+    border: none;
+    background-color: #F95555 !important;
+    color: white;
+    height: 40px;
+}
+
+
+/*****FOOTER*/
+.footer {
+    border-top: 1px solid black;
+    margin-top: 5%;
+    width: 100%;
+}
